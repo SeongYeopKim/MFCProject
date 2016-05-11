@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="UserImages.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\My1121Pro2.rc2">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\1121Pro2Doc.ico">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\1121Pro2.ico">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Toolbar.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Toolbar256.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\잘라낸파일_경찰사이렌.wav">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\sr.wav">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\wave2.bin">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\beep-4.wav">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\poli.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\bitmap2.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\iphone.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\iphones.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\road.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\bitmap4.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\bitmap5.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\bmp00001.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\bmp00002.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\bmp00003.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\..\..\Pictures\car1.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\..\..\Pictures\car2.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\..\..\Pictures\car3.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\..\..\Pictures\car4.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\..\..\Pictures\car5.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\..\..\Pictures\car6.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\..\..\Pictures\car0.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="car0.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\car1.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\car2.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\car3.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\car4.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\car5.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\car6.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\car0.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="1121Pro2.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="1121Pro2Doc.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="1121Pro2View.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="SmartPhone.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="person.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="car.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Cuserdlg.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="apps.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1121Pro2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1121Pro2Doc.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1121Pro2View.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SmartPhone.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="person.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="car.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Cuserdlg.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="apps.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="1121Pro2.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
